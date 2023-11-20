@@ -32,7 +32,7 @@ After opening the tool, you will have to make sure that “modelname” on line 
 
 You can now run the tool by either pressing the run script button below the scripting fan.
 
-To check if the window has run correctly there should comesome text called bpy.ops.text.run_script() in the lower left corner, see picture below
+To check if the tool has run correctly there should be some text called bpy.ops.text.run_script() in the lower left corner, see picture below
 
 ![](https://lh7-us.googleusercontent.com/sCrVkbO4PeVjMFE8j9BT54J83EoRLOq0A9Cn2Sdi0zmoSBeijHp1t1cvjDCQv1Vi80JHKhepJTe6hxowWVgbSgkrHChZWVBfJb-w1-ibUBgGi8FXYY0t-_Psi9JrRxpgCdwC4aKNjAzEwY9zwj11Iw)
 
