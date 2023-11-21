@@ -30,7 +30,7 @@ After opening the tool, you will have to make sure that “modelname” on line 
 
 ![](https://lh7-us.googleusercontent.com/0CbKWan4b8wLKPQe9FY55uEVfUzrb6ze0wm-0WWiuS291zMeySMo43WC3hY6dAu3fe7VZpJwFuKZGoaNO8N0iGnvpX_t_gwPrfM1k2Otu7DnavUhfedDgkK9jJLo-Mp6HjMhXzY8X6hY7TaEgaURJg)
 
-You can now run the tool by either pressing the run script button below the scripting fan.
+You can now run the tool by pressing the run script button below the scripting fan.
 
 To check if the tool has run correctly there should be some text called bpy.ops.text.run_script() in the lower left corner, see picture below
 
