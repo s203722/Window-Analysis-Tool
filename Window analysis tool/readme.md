@@ -62,7 +62,7 @@ If you want to increase the height, workers can lift the window and change the f
 
 You can also change the area at line 74.
 
-![](https://lh7-us.googleusercontent.com/ZUjvBjYBLE5VrNJt4VjUeAOGvxuMRK3dpg6Cq4oDtkQaU_42fcJ2KNvYQwOyetUj4OnfdaJuJbBB1U_cbPZEFrU4SF_xbfE2E0URmN99tjxITR8SboE5DcetjU_IrYraOM16p0g8Dd3JqN09Y2gTOA)
+![](https://lh7-us.googleusercontent.com/llBMmpbV5gilK7v2tOQOBmUOZa3_ftaCB1LulyBgVevozxpB2QjEYyoVvdUP2HlixH4_KJKSFN7xF0F6oIsOzxzcsURHec_sqw-tyQwuCt6zlSP0CckSSwR3meEgpj187RxOvqtpApNhYTPxK8SkAQ)
 
 This also represents the area of the window. Meaning that if the window has a larger area than 6 m^2 it will require a crane, but it does not take the height into account, which means that all windows with an area larger than 6 m^2 needs a crane.
 
